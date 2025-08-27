@@ -8,6 +8,6 @@ int main() {
     std::cout << "Hello, World!\n";
 
     system("pause");
-
+git checkout -b main
     return 0;
 }
