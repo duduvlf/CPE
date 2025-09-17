@@ -47,3 +47,6 @@ cout << " Você já acertou " << acertos << " letras " << "Ainda restam:" << qnt
         return 0;
 
     }
+
+// string = array de caracteres // char = caractere //
+// string palavra = "banana" // palavra[0] = b // palavra[1] = a // palavra[2] = n //
